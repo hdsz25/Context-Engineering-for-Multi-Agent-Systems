@@ -10,7 +10,7 @@ Move beyond prompting to build a Context Engine in a transparent architecture of
 This repository provides a production-ready blueprint for the Agentic Era, allowing you to replace rigid, hard-coded workflows with a dynamic, **transparent**, **observable**, and **sovereign** **Context Engine**. By building universal, domain-agnostic Multi-Agent Systems through high-level semantic orchestration, you can save thousands of lines of code while maintaining 100% observability.
 
 <br clear="left"/>
-<p align="center">Copyright 2025-2026, Denis Rothman. <strong>Last updated: April 11, 2026</strong></p>
+<p align="center">Copyright 2025-2026, Denis Rothman. <strong>Last updated: May 11, 2026</strong></p>
 <p align="center">See the <a href="./CHANGELOG.md">Changelog</a> for updates, fixes, and upgrades(past, present, coming).</p>
 
 Save thousands of lines of code by building universal, domain-agnostic Multi-Agent Systems (MAS) using the ultimate new programming language:
@@ -94,8 +94,8 @@ By the end of this book, you’ll be equipped with the skills needed to engineer
 </ul>
   </details>
 <details open>
-<summary><h3>📣 Live Workshop Session — Cohort 2 Takeaways</h3></summary>
-<img src="media/april2026_workshop.png" alt="April 2026 Workshop" width="340" style="float: left; margin: 0 18px 12px 0;"/>
+<summary><h3>📣 The Live Workshop Session Cohort 2 Takeaways</h3></summary>
+<img src="media/april2026_workshop.png" alt="April 2026 Workshop was a productive move forward" width="340" style="float: left; margin: 0 18px 12px 0;"/>
 
 ✅ The Levels of Efficient Context · ✅ Dual RAG · ✅ Agent Orchestration · ✅ Compliance & Risk
 
@@ -201,6 +201,7 @@ Before running the code, ensure your development environment is properly set up.
 > **A Note on Latency:** The Context Engine built in this book and repository performs complex, multi-step reasoning, not simple, single-shot answers. The delay you observe in Colab is the "thinking" time, as the engine dynamically plans and executes a sequence of API calls (e.g., planning, then RAG, then generation). This is the same reason advanced platforms like Gemini or ChatGPT require a moment to "think" for complex requests, even though they benefit from significantly more powerful environments.
 
 
+
 ### ✅ Prerequisites
 - **Python**: Version **3.10+**
 - **Environment Options:**
@@ -292,8 +293,8 @@ We welcome contributions! High interaction through Issues, PRs, and Comments hel
 1.  **Check Issues:** Look for the [**good first issue**](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) label for approachable tasks.
 2.  **Discussions:** Join our [**Discussions tab**](https://github.com/Denis2054/Context-Engineering-for-Multi-Agent-Systems/discussions) to propose new features or "Context Chaining" techniques.
 3.  **Pull Requests:** Submit improvements to the core `engine.py` or new specialized agents in `agents.py`.
- 
-
-
 </details>
 
+### Last but not least: cool code is great but without a solid Return on Investment(ROI) it will never last in production!
+
+<img src="./media/agentic_roi_framework.gif" alt="Universal Context Engine Blueprint" width="40%" align="left" style="margin-right: 20px;">
