@@ -4,7 +4,7 @@ This changelog contains notable updates (past, present, and upcoming) to the **C
 🐬 Indicates *new bonus notebooks* to explore. 
 
 ## [May 11, 2026] Repository updated for ROI
-Code review from a Return On Investment(ROI) perspective for real-world projects.
+Code review from a Return On Investment(ROI) perspective for real-world projects. 
 
 ## [April 25, 2026] README Updated for April 25, 2026 workshop with takeaways and two new html files.
 <img src="media/april2026_workshop.png" alt="April 2026 Workshop" width="340" style="float: left; margin: 0 18px 12px 0;"/>
